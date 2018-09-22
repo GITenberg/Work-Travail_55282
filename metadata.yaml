@@ -1,0 +1,38 @@
+_repo: Work-Travail_55282
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vizetelly, Ernest Alfred
+    aliases:
+    - Vizetelly, Ernest A.
+    - Vizetelly, E. A. (Ernest Alfred)
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '3192'
+    url: http://www.gutenberg.org/2009/agents/3192
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_issued: '2017-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- GITenberg
+title: Work [Travail]
+url: http://www.gutenberg.org/ebooks/55282
